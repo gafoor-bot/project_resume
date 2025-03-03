@@ -1,0 +1,10 @@
+# Ignore sensitive config files
+resume_backend/src/main/resources/application.properties
+
+# Ignore build and dependency directories
+resume_backend/target/
+resume_frontend/node_modules/
+
+# Ignore system files
+.DS_Store
+

@@ -1,6 +1,6 @@
 # Resume Analyzer using Hugging Face API
 
-![Demo](demo-image.png)
+![Demo](Resume_Analyer_Demo.png)
 
 ## Overview
 This project is an AI-powered resume analyzer that helps job seekers optimize their resumes based on job descriptions. It takes a **resume** and a **job description**, analyzes them using **Hugging Face API**, and provides feedback on how well the resume aligns with the job requirements.
